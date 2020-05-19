@@ -12,7 +12,7 @@ Then, run matlab script main.m for postprocessing vorticity files.
 matlab main
 ```
 
-main.m find the POD modes and weights using SVD
+main.m finds the POD modes and weights using SVD
 
 The POD weights are then fed into the SINDy alogrithm which finds a best fit of a non-linear DE
 
